@@ -170,7 +170,7 @@ cd "CIFAR 10"
 pip install tensorflow matplotlib numpy scipy scikit-learn seaborn
 
 # 3. Launch the notebook
-jupyter notebook "CIFAR-10  Avishi_Tripathi.ipynb"
+jupyter notebook "CIFAR_10_Avishi_Tripathi.ipynb"
 ```
 
 > **Note:** The CIFAR-10 dataset is downloaded automatically by TensorFlow on first run (~170 MB). No Kaggle account needed.
@@ -181,7 +181,7 @@ jupyter notebook "CIFAR-10  Avishi_Tripathi.ipynb"
 
 ```
 CIFAR 10/
-├── CIFAR-10  Avishi_Tripathi.ipynb          # Main notebook (full pipeline)
+├── CIFAR_10_Avishi_Tripathi.ipynb          # Main notebook (full pipeline)
 └── README.md                                # Project documentation
 ```
 

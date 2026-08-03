@@ -176,7 +176,7 @@ cd "LFW face recognition"
 pip install tensorflow matplotlib numpy scipy scikit-learn seaborn
 
 # 3. Launch the notebook
-jupyter notebook "LFW Avishi_Tripathi.ipynb"
+jupyter notebook "LFW_Avishi_Tripathi.ipynb"
 ```
 
 > **Note:** The LFW dataset is downloaded automatically by scikit-learn on first run (~200 MB). No Kaggle account needed.
@@ -187,7 +187,7 @@ jupyter notebook "LFW Avishi_Tripathi.ipynb"
 
 ```
 LFW face recognition/
-├── LFW Avishi_Tripathi.ipynb          # Main notebook (full pipeline)
+├── LFW_Avishi_Tripathi.ipynb          # Main notebook (full pipeline)
 └── README.md                          # Project documentation
 ```
 

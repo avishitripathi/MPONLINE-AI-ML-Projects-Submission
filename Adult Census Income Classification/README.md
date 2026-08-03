@@ -150,7 +150,7 @@ cd "Adult Census Income Classification"
 pip install numpy pandas scikit-learn kagglehub jupyter
 
 # 3. Launch the notebook
-jupyter notebook "Assignment Avishi_Tripathi.ipynb"
+jupyter notebook "Adult Census Income Classification .ipynb"
 ```
 
 > **Note:** The notebook automatically downloads the dataset using `kagglehub`. Ensure your Kaggle API credentials are configured (`~/.kaggle/kaggle.json`).
@@ -161,9 +161,9 @@ jupyter notebook "Assignment Avishi_Tripathi.ipynb"
 
 ```
 Adult Census Income Classification/
-├── Assignment Avishi_Tripathi.ipynb   # Main notebook with full pipeline
-├── README.md                      # Project documentation (this file)
-└── anaconda_projects/             # Anaconda project files
+├── Adult Census Income Classification .ipynb   # Main notebook with full pipeline
+├── README.md                                   # Project documentation (this file)
+└── anaconda_projects/                          # Anaconda project files
 ```
 
 ---
