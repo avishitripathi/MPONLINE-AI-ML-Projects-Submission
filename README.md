@@ -1,4 +1,4 @@
-# 📂 AI & Machine Learning Projects Portfolio
+# 📂 AI & Machine Learning Projects
 
 **Name:** Avishi Tripathi 
 
